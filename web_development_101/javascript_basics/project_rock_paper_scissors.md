@@ -582,4 +582,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Alan Donohoe's Solution](https://github.com/donohoea/rock_paper_scissors)
 - [Nabil Shaahani Solution](https://github.com/Nabil19911/ROCK-PAPER-SCISSORS/settings) - [View in Brower](https://nabil19911.github.io/ROCK-PAPER-SCISSORS/)
 - [Adriel Bruno's Solution](https://github.com/AdrielTrigger/jokenpo-revisited) - [View in Browser](https://adrieltrigger.github.io/jokenpo-revisited/)
+- [Grant Wasil's Solution](https://github.com/GrantWasil/rock-paper-scissors) - [View in Browser](https://grantwasil.github.io/rock-paper-scissors/)
 </details>
